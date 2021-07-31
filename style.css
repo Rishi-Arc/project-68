@@ -1,0 +1,49 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+#welcome {
+    font-style: oblique;
+}
+
+.annoucment {
+    background-color: darkgoldenrod;
+}
+
+a {
+    font-family: monospace;
+}
+
+#myNavbar {
+    background-color: gold;
+    font text-emphasis-color: aqua;
+
+}
+
+#video {
+    align-content: center;
+    outline color: aqua;
+    outline-width: thick;
+}
+
+#map {
+    float: right;
+    border-style: solid;
+    border-width:thick;
+    border-color:blue;
+}
+footer{
+    background-color: burlywood;
+    text-align: center;
+   
+    text-decoration-color: black;
+    margin: 30 0 0 0px;
+    padding: 10px;
+    
+    }
+.container{
+margin: 10 0 0 0px;
+    padding: 7px;
+}
